@@ -6,7 +6,8 @@ Projeto de site responsivo com foco em compras via dispositivos móveis.
 
 ## 📱 Preview
 
-![We Care - Screenshot](./assets/Captura de tela 2025-08-06 212349.png)
+![We Care - Screenshot]
+<img src="./assets/Captura de tela 2025-08-06 212349.png">
 
 ## 💡 Funcionalidades
 
