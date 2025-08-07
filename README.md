@@ -22,24 +22,6 @@ Projeto de site responsivo com foco em compras via dispositivos móveis.
 - HTML5
 - CSS3 (Flexbox, Media Queries)
 
-## 📂 Como visualizar o projeto localmente
-
-Você pode abrir o projeto no seu navegador seguindo esses passos:
-
-1. **Clone o repositório** do GitHub (quando estiver disponível):
-```bash
-git clone https://github.com/seuusuario/we-care.git
-```
-
-2. **Acesse a pasta do projeto**:
-```bash
-cd we-care
-```
-
-3. **Abra o arquivo `index.html`** no navegador:
-- Se estiver usando o VS Code, clique com o botão direito em `index.html` e selecione "Open with Live Server".
-- Ou, simplesmente, **dê dois cliques no arquivo `index.html`** para abrir no navegador padrão do seu sistema.
-
 ## 📚 O que aprendi
 
 - Princípios de design responsivo com mobile-first
